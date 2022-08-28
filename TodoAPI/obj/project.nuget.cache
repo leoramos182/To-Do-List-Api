@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eXX6/o2YXbUWWlPGcGCn1AncT+2jV3z7jNIvF0+Dx4G7Ey/w9mgHgU8dQqhZNkXT70v/4iiIV5Mlvo24eVoKWQ==",
+  "dgSpecHash": "3/yMMq5cfihrtP96+rYejnNeRMDqietvKOfJKhu8O1btU1dypHM1xYjOzL+BNTV1dTg/NErHckB5JoVpzK3Rnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\WebApi\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\To-Do-List-Api\\TodoAPI\\TodoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",

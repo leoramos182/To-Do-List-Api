@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoAPI
 build_property.RootNamespace = TodoAPI
-build_property.ProjectDir = C:\Users\USUARIO\source\repos\WebApi\TodoAPI\TodoAPI\
+build_property.ProjectDir = C:\Users\USUARIO\Desktop\To-Do-List-Api\TodoAPI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USUARIO\source\repos\WebApi\TodoAPI\TodoAPI
+build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Desktop\To-Do-List-Api\TodoAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/Error.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/Index.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/Privacy.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/_ViewImports.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/_ViewStart.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/source/repos/WebApi/TodoAPI/TodoAPI/Pages/Shared/_Layout.cshtml]
+[C:/Users/USUARIO/Desktop/To-Do-List-Api/TodoAPI/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u6xh9ki09p
